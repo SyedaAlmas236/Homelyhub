@@ -15,9 +15,9 @@ const app = express();
 // Allow both dev and production origins
 const allowedOrigins = [
   'http://localhost:5173', // Vite dev server
-  'https://almas-homelyhub.vercel.app/', // Vercel frontend
-  'https://homelyhub-ond2h8m8k-syedaalmas236s-projects.vercel.app/',
-  'https://homelyhub-git-main-syedaalmas236s-projects.vercel.app/'
+  'https://almas-homelyhub.vercel.app', // Vercel frontend
+  'https://homelyhub-ond2h8m8k-syedaalmas236s-projects.vercel.app',
+  'https://homelyhub-git-main-syedaalmas236s-projects.vercel.app'
 ];
 
 app.use(
