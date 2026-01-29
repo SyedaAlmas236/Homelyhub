@@ -84,8 +84,4 @@ npm run dev
 - Filter & search options
 - Responsive and modern UI
 
-### 👩‍💻 Author
-
-Yadam Naga Venkata Naveen Kumar
-Frontend deployed on Vercel | Backend deployed on Render
 
